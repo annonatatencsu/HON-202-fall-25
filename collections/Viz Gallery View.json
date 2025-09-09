@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Viz Gallery View",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-annotation annotationurl='https://annonatatencsu.github.io/HON-202-005/manifests/iiif/chapter2/manifest.json'></iiif-annotation>",
+            "title": "",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
