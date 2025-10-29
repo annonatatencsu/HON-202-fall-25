@@ -1,0 +1,37 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-1"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Test",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Hannah R",
+                "name": "Hannah R"
+            },
+            "created": "2025-10-29T18:50:07.502Z",
+            "modified": "2025-10-29T18:50:07.820Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://annonatatencsu.github.io/HON-202-fall-25/manifests/iiif/chapter2/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"2591.895263671875\" cy=\"2971.9820556640625\" r=\"814.406412719095\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5e44549f-8c77-47a7-99d4-20cf81ceff5c.json",
+    "motivation": "commenting"
+}
