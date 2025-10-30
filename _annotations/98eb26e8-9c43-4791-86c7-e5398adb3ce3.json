@@ -1,0 +1,38 @@
+---
+canvas: "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "test1",
+            "purpose": "commenting",
+            "creator": {
+                "id": "test",
+                "name": "test"
+            },
+            "created": "2025-10-30T13:37:04.290Z",
+            "modified": "2025-10-30T13:37:05.093Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://annonatatencsu.github.io/HON-202-fall-25/manifests/iiif/chapter2/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://dnoneill.github.io/thearrival/img/derivatives/iiif/chapter2/canvas/chapter2-2",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1821.1683349609375,1345.4114990234375,1068.1204833984375,521.18212890625"
+        }
+    },
+    "id": "98eb26e8-9c43-4791-86c7-e5398adb3ce3.json",
+    "motivation": "commenting"
+}
